@@ -38,7 +38,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
 </div>
-
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div align="left">
@@ -56,5 +56,25 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=mukeshkarn1994@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thekrishnarajput&theme=algolia" alt="thekrishnarajput" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thekrishnarajput&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thekrishnarajput&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="thekrishnarajput" height="192px"/></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<summary><b>💻 Git profile Trophies</b></summary>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thekrishnarajput&layout=compact&theme=algolia" alt="thekrishnarajput" /></a> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
