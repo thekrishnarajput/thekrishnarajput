@@ -1,3 +1,7 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="thekrishnarajput" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/thekrishnarajput?trk=profile-badge"></a></div>
+
 <h2 align="left">Hi 👋! My name is Mukesh (A.K.A. Krishna) and I am an experienced Software Engineer💻adept in Node.js, Express.js, MongoDB, MySQL & AWS. | Led teams for high-quality solutions. Ready for dynamic projects.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekrishnarajput&label=Profile%20views&color=0e75b6&style=flat" alt="thekrishnarajput" /> </p>
 
