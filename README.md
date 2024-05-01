@@ -2,7 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekrishnarajput&label=Profile%20views&color=0e75b6&style=flat" alt="thekrishnarajput" /> </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4962&pause=1000&color=AEF76C&center=true&multiline=true&random=false&width=445&height=65&lines=If+you+stop+learning%2C+you+surely+stop+growing." alt="Typing SVG" /></a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <img align="right" height="150" src="https://media.tenor.com/G69XvhZj1wMAAAAi/code-encoding.gif"  />
 
