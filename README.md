@@ -59,20 +59,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thekrishnarajput&theme=algolia" alt="thekrishnarajput" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thekrishnarajput&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thekrishnarajput&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="thekrishnarajput" height="192px"/></p>
+  <br><br>
 
-
-------
 <p align="left">
   <!--- stats (start) -->
 <table align="left">
@@ -82,7 +71,6 @@
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thekrishnarajput&theme=dark&hide_border=false" /> 
 </td>
-
 
 <td width="50%" align="center">
 
