@@ -1,7 +1,7 @@
 <img align="right" height="150" src="https://media.tenor.com/G69XvhZj1wMAAAAi/code-encoding.gif"  />
 
-<h2 align="left">Hi 👋! My name is Mukesh (A.K.A. Krishna) and I am an experienced Software Engineer.</h2>
 <br><br><br>
+<h2 align="left">Hi 👋! My name is Mukesh (A.K.A. Krishna) and I am an experienced Software Engineer.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekrishnarajput&label=Profile%20views&color=0e75b6&style=flat" alt="thekrishnarajput" /> </p>
 
