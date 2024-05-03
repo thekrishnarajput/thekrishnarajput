@@ -4,7 +4,7 @@
 <img align="right" height="150" src="https://media.tenor.com/G69XvhZj1wMAAAAi/code-encoding.gif"  />
 
 <br><br><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&pause=1000&color=1DBD10&background=000000&random=true&width=435&lines=%22If+you+stop+learning%2C+you+surely+stop+growing.%22;%22You+are+the+only+one%2C+who+can+make+you+successful.%22" alt="Typing SVG" />
+<a href="https://git.io/typing-svg" style="text-align: center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&pause=1000&color=1DBD10&background=000000&random=true&width=435&lines=%22If+you+stop+learning%2C+you+surely+stop+growing.%22;%22You+are+the+only+one%2C+who+can+make+you+successful.%22" alt="Typing SVG" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
