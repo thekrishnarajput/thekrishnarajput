@@ -1,10 +1,9 @@
-<img align="right" height="150" src="https://media.tenor.com/G69XvhZj1wMAAAAi/code-encoding.gif"  />
-
-<br><br><br>
 <h2 align="left">Hi 👋! My name is Mukesh (A.K.A. Krishna) and I am an experienced Software Engineer.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekrishnarajput&label=Profile%20views&color=0e75b6&style=flat" alt="thekrishnarajput" /> </p>
+<img align="right" height="150" src="https://media.tenor.com/G69XvhZj1wMAAAAi/code-encoding.gif"  />
 
+<br><br><br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&pause=1000&color=1DBD10&background=000000&random=true&width=435&lines=%22If+you+stop+learning%2C+you+surely+stop+growing.%22;%22You+are+the+only+one%2C+who+can+make+you+successful.%22" alt="Typing SVG" />
 </a>
 
