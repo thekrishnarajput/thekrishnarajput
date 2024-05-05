@@ -55,7 +55,7 @@
   <a href="https://facebook.com/Thekrishnarajput1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=thekrishnarajput1&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=mukeshkarn1994@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<!--   <img src="https://img.shields.io/static/v1?message=mukeshkarn1994@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> -->
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -92,7 +92,6 @@
 
 <!--- trophy (start) -->
 </p> 
---------
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <picture>
